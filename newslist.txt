@@ -1,0 +1,5 @@
+abcnews
+foxnews
+nbcfootballnews
+nprnews
+nypost
